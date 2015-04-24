@@ -4,9 +4,23 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <title>Meine 10 Lieblingslieder</title>
-</head>
+<style>
 
-<style>body { background: url("http://fc07.deviantart.net/fs70/f/2013/174/3/e/recycled_texture_background_by_sandeep_m-d6aeau9.jpg"); }</style>
+body { background: url("http://fc07.deviantart.net/fs70/f/2013/174/3/e/recycled_texture_background_by_sandeep_m-d6aeau9.jpg"); }
+
+a {
+color: white;
+text-decoration: none;
+}
+
+a:hover {
+color: red;
+text-decoration: blink;
+text-decoration: underline;
+}
+</style>
+
+</head>
 
 
 <body>
