@@ -1,0 +1,48 @@
+body { 
+	background: url("http://fc07.deviantart.net/fs70/f/2013/174/3/e/recycled_texture_background_by_sandeep_m-d6aeau9.jpg"); 
+	background-attachment:fixed;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color:red;
+	text-decoration: underline;
+}
+
+.scroll-to-top-link{
+    position:fixed;
+    width:50px;
+    right:10%;
+    bottom:10%;
+    cursor:pointer;
+    display:none;
+}
+
+/* BUTTONS*/
+input,
+button {
+	font: 15px "arial", sans-serif;
+}
+
+.button {
+	padding:5px 13px;
+	display:inlane-block:
+	text-decoration: none;
+	border-radius: 3px;
+	background-color: #ccc; /*Temp*/
+}
+
+.button-primary {
+	background:slategrey;
+	color:#fff;
+}
+
+.button-primary:hover {
+	background:lightgrey;
+	text-decoration: none;
+	color:white;
+};
