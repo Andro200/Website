@@ -40,7 +40,8 @@ text-decoration: underline;
 </br>
 
 <!-- src="https://www.youtube.com/embed/iX-QaNzd-0Y?rel=0" Das "?rel=0" am Ende damit nachdem das Video fertig ist keine anderen Empfohlenen Videos angezeigt werden (leider kann man sich nur 1 Sache aussuchen)
-Hier nochmal der Link  https://developers.google.com/youtube/player_parameters?hl=de#iv_load_policy-->
+Hier nochmal die Links http://leaderswest.com/2012/10/10/youtube-embed-options-can-make-your-videos-look-less-youtube-y/ ;
+https://developers.google.com/youtube/player_parameters?hl=de#iv_load_policy-->
 <!-- Das "?showinfo=0" am Ende sorgt dafür, dass weder Titel am Video noch uploader oder sonstiges angezeigt wird (also die obere Leiste) -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2fngvQS_PmQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
