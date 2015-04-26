@@ -38,7 +38,12 @@ text-decoration: underline;
 </br>
 </br>
 </br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2fngvQS_PmQ" frameborder="0" allowfullscreen></iframe>
+
+<!-- src="https://www.youtube.com/embed/iX-QaNzd-0Y?rel=0" Das "?rel=0" am Ende damit nachdem das Video fertig ist keine anderen Empfohlenen Videos angezeigt werden (leider kann man sich nur 1 Sache aussuchen)
+Hier nochmal der Link  https://developers.google.com/youtube/player_parameters?hl=de#iv_load_policy-->
+<!-- Das "?showinfo=0" am Ende sorgt dafür, dass weder Titel am Video noch uploader oder sonstiges angezeigt wird (also die obere Leiste) -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2fngvQS_PmQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </br>
 <span style="font-size:10px;"><a href="https://www.youtube.com/watch?v=2fngvQS_PmQ&feature=player_embedded" target="_blank" >Hier geht's zur Seite</a></span>
 </br>
@@ -49,7 +54,7 @@ text-decoration: underline;
 </br>
 </br>
 </br>
-<iframe src="http://www.myvideo.de/embedded/public/7591274" height="315" width="560" frameborder="0" allowfullscreen></iframe>
+<iframe src="http://www.myvideo.de/embedded/public/7591274?showinfo=0" height="315" width="560" frameborder="0" allowfullscreen></iframe>
 </br>
 <span style="font-size:10px;"><a href="http://www.myvideo.de/musik/eminem/not-afraid-video-m-7591274" target="_blank" >Hier geht's zur Seite</a></span>
 </br>
@@ -60,7 +65,7 @@ text-decoration: underline;
 </br>
 </br>
 </br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m-M1AtrxztU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m-M1AtrxztU?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </br>
 <span style="font-size:10px;"><a href="https://www.youtube.com/watch?v=m-M1AtrxztU&feature=player_embedded" target="_blank" >Hier geht's zur Seite</a></span>
 </br>
@@ -71,7 +76,7 @@ text-decoration: underline;
 </br>
 </br>
 </br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YxIiPLVR6NA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YxIiPLVR6NA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </br>
 <span style="font-size:10px;"><a href="https://www.youtube.com/watch?v=YxIiPLVR6NA&feature=player_embedded" target="_blank" >Hier geht's zur Seite</a></span>
 </br>
@@ -82,7 +87,7 @@ text-decoration: underline;
 </br>
 </br>
 </br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iX-QaNzd-0Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iX-QaNzd-0Y?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </br>
 <span style="font-size:10px;"><a href="https://www.youtube.com/watch?v=iX-QaNzd-0Y" target="_blank" >Hier geht's zur Seite</a></span>
 </br>
@@ -93,7 +98,7 @@ text-decoration: underline;
 </br>
 </br>
 </br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2zNSgSzhBfM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2zNSgSzhBfM?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </br>
 <span style="font-size:10px;"><a href="https://www.youtube.com/watch?v=2zNSgSzhBfM&feature=player_embedded" target="_blank" >Hier geht's zur Seite</a></span>
 </br>
@@ -104,7 +109,7 @@ text-decoration: underline;
 </br>
 </br>
 </br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5y_KJAg8bHI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5y_KJAg8bHI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </br>
 <span style="font-size:10px;"><a href="https://www.youtube.com/watch?v=5y_KJAg8bHI&feature=player_embedded" target="_blank" >Hier geht's zur Seite</a></span>
 </br>
@@ -115,7 +120,7 @@ text-decoration: underline;
 </br>
 </br>
 </br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hT_nvWreIhg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hT_nvWreIhg?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </br>
 <span style="font-size:10px;"><a href="https://www.youtube.com/watch?v=hT_nvWreIhg&feature=player_embedded" target="_blank" >Hier geht's zur Seite</a></span>
 </br>
@@ -126,7 +131,7 @@ text-decoration: underline;
 </br>
 </br>
 </br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m20BTdy9FGI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m20BTdy9FGI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </br>
 <!--https://www.youtube.com/watch?v=m20BTdy9FGI&feature=player_embedded <- Der Link -->
 <span style="font-size:10px;"><a href="https://www.youtube.com/watch?v=m20BTdy9FGI&feature=player_embedded" target="_blank" >Hier geht's zur Seite</a></span>
@@ -138,7 +143,7 @@ text-decoration: underline;
 </br>
 </br>
 </br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cyW2ajAVyfA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyW2ajAVyfA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </br>
 <!--https://www.youtube.com/watch?v=cyW2ajAVyfA-->
 <span style="font-size:10px;"><a href="https://www.youtube.com/watch?v=cyW2ajAVyfA" target="_blank" >Hier geht's zur Seite</a></span>
